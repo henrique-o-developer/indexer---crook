@@ -4,7 +4,7 @@
   "description": "",
   "main": "./cloud/index.js",
   "scripts": {
-    "build": "npm i; node ./cloud/index.js"
+    "build": "node ./cloud/index.js"
   },
   "author": "",
   "license": "ISC",
