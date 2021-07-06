@@ -4,7 +4,6 @@
   "description": "",
   "main": "./cloud/index.js",
   "scripts": {
-    "build": "node ./cloud/index.js"
   },
   "author": "",
   "license": "ISC",
