@@ -4,8 +4,12 @@
   "description": "",
   "main": "./cloud/index.js",
   "scripts": {
-    "build": "node ./cloud/index.js"
+    "build": "npm i; node ./cloud/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
 }
